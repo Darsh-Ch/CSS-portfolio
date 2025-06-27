@@ -1,0 +1,48 @@
+.d-block{
+    border-radius: 50%;
+}
+h1{
+    color: #A4CCD9;
+}
+
+.custom-btn{
+    background-color: #A4CCD9;
+    color: white;
+}
+.custom-btn:hover{
+    background-color: #8DBCC7;
+}
+.display-5{
+    color: #A4CCD9;
+}
+.gif{
+    float: left;
+}
+.media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    max-width: 800px;
+}
+.heading{
+    text-align: center;
+    margin-bottom:20px;
+    color: #A4CCD9;
+}
+.footer{
+    background-color: #A4CCD9;
+}
+body{
+    font-family: "Merriweather", serif;
+}
+.h5{
+    color: #8DBCC7;
+    font-weight: bold;
+}
+.image{
+    display: block;
+}
+.instaLogo{
+    float: left;
+}
